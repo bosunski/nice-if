@@ -1,5 +1,5 @@
 {
-    "name": "neater/if",
+    "name": "neater/condition",
     "description": "A package to make calling of if and else smarter and cleaner.",
     "keywords": ["iftt", "if this then that", "conditionals", "condition", "if else"],
     "license": "MIT",
@@ -15,12 +15,12 @@
           "functions/condition.php"
         ],
         "psr-4": {
-            "NiceIf\\": "src"
+            "Neater\\Condition\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "NiceIf\\": "tests"
+            "Neater\\Condition\\": "tests"
         }
     },
     "config": {
