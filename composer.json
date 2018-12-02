@@ -4,7 +4,7 @@
     "keywords": ["iftt", "if this then that", "conditionals", "condition", "if else"],
     "license": "MIT",
     "require": {
-        "php": "^7.0"
+        "php": "^7.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0",
