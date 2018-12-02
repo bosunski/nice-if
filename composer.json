@@ -15,12 +15,12 @@
           "functions/condition.php"
         ],
         "psr-4": {
-            "Condi\\Package\\": "src"
+            "NiceIf\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Vendor\\Package\\": "tests"
+            "NiceIf\\": "tests"
         }
     },
     "config": {
