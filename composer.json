@@ -1,5 +1,5 @@
 {
-    "name": "beyond/nice-if",
+    "name": "nice/if",
     "description": "A package to make calling of if and else smarter and cleaner.",
     "keywords": ["iftt", "if this then that", "conditionals", "condition", "if else"],
     "license": "MIT",
