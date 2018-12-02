@@ -19,7 +19,7 @@ cs: ## Fixes coding standard problems
 tag: ## Creates a new signed git tag
 	$(if $(TAG),,$(error TAG is not defined. Pass via "make tag TAG=X.X.X"))
 	@echo Tagging $(TAG)
-	chag update $(TAG)
+	#chag update $(TAG)
 	git add --all
 	git commit -m 'Release $(TAG)'
 	git tag -s $(TAG) -m 'Release $(TAG)'
