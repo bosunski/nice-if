@@ -77,6 +77,8 @@ class Condition
 	 * Do something else.
 	 *
 	 * @param callable $somethingElse
+	 *
+	 * @return mixed
 	 */
 	public function otherwiseDo(callable $somethingElse)
 	{
